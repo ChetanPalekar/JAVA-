@@ -1,4 +1,6 @@
-//this program does not work if more then 1 element occur at same highest number of times
+/*
+This program checks the hightest number of a character that is occuring consecutively 
+this program does not work if more then 1 element occur at same highest number of times*/
 
 import java.util.*;
 
